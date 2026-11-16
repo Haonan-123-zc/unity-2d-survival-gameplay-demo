@@ -5,7 +5,7 @@
 
 ## 实机演示
 
-[▶ 观看实机演示视频](demo/实机演示.mp4)
+[▶ 在线观看实机演示](https://haonan-123-zc.github.io/unity-2d-survival-gameplay-demo/)（[下载视频](demo/实机演示.mp4)）
 
 ## 技术栈
 
