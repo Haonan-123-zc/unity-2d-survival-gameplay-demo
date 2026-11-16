@@ -1,11 +1,9 @@
 # 旋锋涤尘：核心玩法代码
 
+[▶ 在线观看实机演示](https://haonan-123-zc.github.io/unity-2d-survival-gameplay-demo/)（[下载视频](demo/实机演示.mp4)）
+
 本项目是从《旋锋涤尘》源码整理的 Unity C# 核心逻辑代码包。
 提供一套可阅读的代码详解
-
-## 实机演示
-
-[▶ 在线观看实机演示](https://haonan-123-zc.github.io/unity-2d-survival-gameplay-demo/)（[下载视频](demo/实机演示.mp4)）
 
 ## 技术栈
 
